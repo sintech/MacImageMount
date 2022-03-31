@@ -1,7 +1,7 @@
 # MacImageMount
 GUI tool for easy mounting of RAW hard drive, cdrom, floppy images under macOS.
 
-It is just an overlay for macOS `hdiutil` but a pretty handy one.
+It is just an wrapper for macOS cli `hdiutil` but a pretty handy one.
 Written in python using PySide6 GUI.
 
 ## Features
