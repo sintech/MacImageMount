@@ -195,7 +195,7 @@ class Main(QMainWindow):
             file_list = ext_list
         else:
             self.dir = QFileDialog.getExistingDirectory(self, "Open Directory",
-                                                        "/Volumes",
+                                                        "",
                                                         QFileDialog.ShowDirsOnly)
             
             if not self.dir:
